@@ -1,4 +1,8 @@
+<div align="center">
+  
 ![내용입력](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Pushing%20the%20Limits%20of%20Code%20Performance&fontSize=35)
+
+</div>
 
 <div align="center">
   
@@ -78,4 +82,9 @@
 </p>
 </div>
 
+<div align="center">
+
 ![Pushing the Limits of Code Performance](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
+
+</div>
+
