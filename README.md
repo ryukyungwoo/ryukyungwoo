@@ -1,4 +1,4 @@
-![내용입력](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Pushing%20the%20Limits%20of%20Code%20Performance&fontSize=35)
+![내용입력](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Pushing%20the%20Limits%20of%20Code%20Performance&fontSize=35)
 
 <div align="center">
   
@@ -78,4 +78,4 @@
 </p>
 </div>
 
-![Pushing the Limits of Code Performance](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer)
+![Pushing the Limits of Code Performance](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
